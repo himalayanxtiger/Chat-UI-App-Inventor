@@ -1,2 +1,3 @@
-# Chat-UI-App-Inventor
-Chat UI extension for app inventor
+## ChatUI
+
+An App Inventor 2 extension created using Rush.
